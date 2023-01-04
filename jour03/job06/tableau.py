@@ -8,4 +8,3 @@ def tableau():
 
 tableau()
 
-jo
